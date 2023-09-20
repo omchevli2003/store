@@ -1,0 +1,8 @@
+// mongodb depandency
+
+npm i express
+npm i body-parser
+npm i cors
+npm i jsonwebtoken
+npm i mongoose
+npm i bcrypt
